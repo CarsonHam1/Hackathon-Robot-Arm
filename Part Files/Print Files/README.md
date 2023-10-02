@@ -1,0 +1,1 @@
+Theoretically all you should need is the files from the 3MF folder, since they have settings and plate layouts already done for you. I tried my best with the layouts on them. One 3MF is for the bambu, the other is for the MK3s
