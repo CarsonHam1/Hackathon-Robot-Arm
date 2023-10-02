@@ -1,0 +1,1 @@
+Holds the part files. One folder is for the solidworks files I made by hand to replace the parts that didn't work from the ones an intern made. The other folder is for the straight to print files, which hold the 3MF files and STL files for them.
