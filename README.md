@@ -23,5 +23,8 @@ Don't forget to order everything in one PR, because it's embarrasing to have to 
 
 This Repo should have the solidworks files, STLs and 3MFs, previous PRs so you can see what we ordered, and any other bits of random info I thought that you should know. It might be incomplete. If you notice anything you thing I should add, just email me and I can either edit it or give you perms to edit it if I can figure out how.
 I print most of the parts on one build plate because it makes it easier when you can just pull the whole plate and snap it into a bag without having to count parts out. The only parts I don't print on the sheet are the bases and the screw measuring things. I print the bases in sets 6 on a mini, use a brim if you lost my 3MF. The screw measuring things should get reused from previous years pretty well since they aren't consumed.
-Use regular PEI sheets for this. Although satin sheets are amazing, they don't work as well for bulk prints where there are pieces all over the sheet. Make sure you dial in the z level, it's a smaller gap than a normal print because you really don't want these to fail. The Bambus are work horses, and don't forget you can print on CAPSTONE printers. 
-IFixIt magnetic work mats are super useful for counting out screws since it stops them from rolling, I've most likely accidentally taken mine with me so you might need to PR a new one or buy one for yourself. 
+Use regular PEI sheets for this. Although satin sheets are amazing, they don't work as well for bulk prints where there are pieces all over the sheet. Make sure you dial in the z level, it's a smaller gap than a normal print because you really don't want these to fail. The Bambus are work horses since they print so fast, and don't forget you can print on CAPSTONE printers. 
+IFixIt magnetic work mats are super useful for counting out screws since it stops them from rolling, so you might need to PR a new one or buy one for yourself. 
+
+I wish you all the best of luck,
+Carson Ham, Class of 2024
