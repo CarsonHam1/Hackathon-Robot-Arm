@@ -4,9 +4,10 @@ Sample Code, Solidworks Parts, Previous PRs, and any extra info
 If you're reading this, you are either a makerspace goblin following in my footsteps, or you're a massive nerd while doing the Hackathon and bothered to read the readme. Either way, you are now here.
 
 For the Hackathon kids:
+
 If you're MechE or putting the robot together: What the hell are you doing reading this, get to work. It's big boy LEGO pieces. Your fingers might get a bit raw by the end but you'll be fine. At my prime I could put together one of those robots in less than 35 minutes solo, AND this project didn't exist my freshman year, so you have no excuses. If you think that 'oh I'm an ME, I design things I don't have to put things together' yeah guess again. As a senior ME I can tell you that you spend more time putting together prototpyes than editing them. In terms of being an ME, I would love to say it gets easier but it absolutely doesn't. By the end you'll be begging to graduate to get into the real world, but still value your time in college, there's nothing quite like it. 
 
-If you're CompSci or doing the coding, it should be super self-explanatory, the code is commented and uses one of every command you need unless you decide to go above and beyond. I have seen groups find buttons and make the robot be controlled with the buttons like a controller. I have also seen them use proper servo functions to make the servos move slowly and smoothly which helps
+If you're CompSci or doing the coding, it should be super self-explanatory. The most common errors are all your fault; the IDE is set to the wrong port, or the wrong board, or something like that. Check that before asking someone. The code is commented and uses one of every command you need unless you decide to go above and beyond. I have seen groups find buttons and make the robot be controlled with the buttons like a controller. I have also seen them use proper servo functions to make the servos move slowly and smoothly which helps
 An example psuedocode of that would be;
 while(current angle < wanted angle) {
 current angle=current angle + 1;
@@ -16,6 +17,7 @@ delay(20); //The longer this delay the slower it moves
 This should help the robot perform better and really impress your professor because the robot will stand out, just don't tell them where you learned that trick. 
 
 For my Makerspace goons: 
+
 Whether you're my direct replacement or this manages to survive past the next couple years, good luck. This project sucks to do. However much it sucks for the students doing it, this sucks more for us. Every single part, every single screw, everything is touched by hand and organized and ordered by us. 
 Don't forget to order everything in one PR, because it's embarrasing to have to order everything over a couple PRs. Ask me how I know. 
 
